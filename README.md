@@ -1,4 +1,4 @@
-# Learn Mongodb
+# Learn MongoDB
 
 [![Pages](https://github.com/devpro/learn-mongodb/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/devpro/learn-mongodb/actions/workflows/pages.yml)
 
